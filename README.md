@@ -33,7 +33,7 @@ This project provides an engaging, interactive experience to help people explore
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/skeu-os/gospel.git
 cd gospel
 ```
 
