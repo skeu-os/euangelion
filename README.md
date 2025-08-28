@@ -1,4 +1,4 @@
-# 📢 Gospel
+# 📢 Euangelion
 
 An interactive walkthrough of the gospel that uses activities to help users understand and, God-willing, believe the gospel. New believers will be connected with solid churches nearby and the churches will be prompted for follow-up.
 
@@ -33,8 +33,8 @@ This project provides an engaging, interactive experience to help people explore
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/skeu-os/gospel.git
-cd gospel
+git clone https://github.com/skeu-os/euangelion.git
+cd euangelion
 ```
 
 2. Install dependencies:
@@ -63,7 +63,7 @@ The application will be available at `http://localhost:3000`
 ### 📁 Project Structure
 
 ```
-gospel/
+euangelion/
 ├── app/                 # Main application files
 │   └── app.vue         # Root Vue component
 ├── public/             # Static assets

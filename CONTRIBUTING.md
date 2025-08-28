@@ -1,4 +1,4 @@
-# 🤝 Contributing to Gospel Walkthrough
+# 🤝 Contributing to Euangelion
 
 Thank you for your interest in contributing to the Gospel Walkthrough project! This project aims to help people understand and believe the gospel through interactive activities, and your contributions can make a real difference.
 
@@ -63,8 +63,8 @@ This project is committed to providing a welcoming and inclusive environment for
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/gospel.git
-   cd gospel
+   git clone https://github.com/YOUR_USERNAME/euangelion.git
+   cd euangelion
    ```
 3. Install dependencies:
    ```bash
