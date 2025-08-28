@@ -77,7 +77,14 @@ We welcome contributions to help improve the gospel walkthrough experience. Plea
 
 ## 📄 License
 
-[Add appropriate license information]
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
+
+The GPL-3.0 license ensures that:
+
+- This software remains free and open source
+- Any derivative works must also be licensed under GPL-3.0
+- Source code must be made available when distributing the software
+- Users have the freedom to use, modify, and distribute the software
 
 ## 💬 Support
 
