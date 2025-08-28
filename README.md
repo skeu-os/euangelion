@@ -1,75 +1,87 @@
-# Nuxt Minimal Starter
+# 📢 Gospel
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+An interactive walkthrough of the gospel that uses activities to help users understand and, God-willing, believe the gospel. New believers will be connected with solid churches nearby and the churches will be prompted for follow-up.
 
-## Setup
+## 📖 About
 
-Make sure to install dependencies:
+This project provides an engaging, interactive experience to help people explore and understand the gospel message. Through carefully designed activities and content, users can journey through the core teachings of Christianity in an accessible and meaningful way.
+
+## ✨ Features
+
+- **Interactive Gospel Walkthrough**: Step-by-step exploration of the gospel message
+- **Engaging Activities**: Hands-on learning experiences to deepen understanding
+- **Church Connection**: Connect new believers with solid churches in their area
+- **Follow-up System**: Prompts for churches to follow up with new believers
+- **Modern Web Interface**: Built with Nuxt.js for a smooth, responsive experience
+
+## 🛠️ Technology Stack
+
+- **Frontend**: Nuxt.js with Vue.js
+- **Styling**: Modern CSS with responsive design
+- **Build Tool**: Vite
+- **Package Manager**: pnpm
+
+## 🚀 Getting Started
+
+### 📋 Prerequisites
+
+- Node.js (version 18 or higher)
+- pnpm (recommended) or npm
+
+### ⚙️ Installation
+
+1. Clone the repository:
 
 ```bash
-# npm
-npm install
+git clone <repository-url>
+cd gospel
+```
 
-# pnpm
+2. Install dependencies:
+
+```bash
 pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+3. Start the development server:
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
 pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+The application will be available at `http://localhost:3000`
 
-Build the application for production:
+## 💻 Development
 
-```bash
-# npm
-npm run build
+### 📜 Available Scripts
 
-# pnpm
-pnpm build
+- `pnpm dev` - Start development server
+- `pnpm build` - Build for production
+- `pnpm preview` - Preview production build locally
+- `pnpm lint` - Run linting checks
 
-# yarn
-yarn build
+### 📁 Project Structure
 
-# bun
-bun run build
+```
+gospel/
+├── app/                 # Main application files
+│   └── app.vue         # Root Vue component
+├── public/             # Static assets
+├── nuxt.config.ts      # Nuxt configuration
+└── package.json        # Dependencies and scripts
 ```
 
-Locally preview production build:
+## 🤝 Contributing
 
-```bash
-# npm
-npm run preview
+We welcome contributions to help improve the gospel walkthrough experience. Please ensure all changes align with the project's mission of sharing the gospel message clearly and effectively.
 
-# pnpm
-pnpm preview
+## 📄 License
 
-# yarn
-yarn preview
+[Add appropriate license information]
 
-# bun
-bun run preview
-```
+## 💬 Support
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+For questions or support, please use:
+
+- **GitHub Issues**: Report bugs or request features
+- **GitHub Discussions**: Ask questions and engage with the community
